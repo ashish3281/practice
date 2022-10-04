@@ -1,0 +1,19 @@
+{
+  "name": "ashish",
+  "version": "1.0.0",
+  "description": "my first package json file",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "ashish goyal",
+  "license": "ISC",
+  "dependencies": {
+    "cartoon-avatar": "^1.0.2",
+    "colors": "^1.4.0"
+  }
+}
